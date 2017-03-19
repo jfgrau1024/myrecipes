@@ -20,3 +20,26 @@ $navbar-default-bg: black;
 .center{
 	text-align: center;
 }
+
+.jumbotron{
+
+	background-image:  asset-url("mm.png") ;
+	background-size: cover;
+	height: 330px;
+	
+
+
+}
+.jumbotron h1,h3 {
+	color: #fff;
+	margin-bottom: 30px;
+	letter-spacing: -1px;
+	font-weight: bold;
+	text-shadow: 3px 3px 7px black;
+}
+
+.btnx{
+	background-color: black;
+	border: none;
+	font-weight: bold;
+}
